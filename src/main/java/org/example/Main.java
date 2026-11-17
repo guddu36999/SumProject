@@ -12,6 +12,7 @@ public class Main {
         int a=20,b=30;
         int result=add(a,b);
         System.out.println("Sum:"+result);
+        System.out.println("Hello from Jenkins CI");
 
     }
 }
