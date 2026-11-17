@@ -18,5 +18,9 @@ public class Main {
         //
         System.out.println("sdfghhhhh");
         System.out.println("sdfghjgh");
+
+        //
+        System.out.println("sdfghj");
+        System.out.println("sdfghjmfghj");
     }
 }
